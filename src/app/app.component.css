@@ -1,0 +1,210 @@
+div {
+  background-color: rgba(0, 0, 0, 0.61);
+  padding: 1px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.logo-while {
+  width: 80px;
+}
+
+.titulo-inicial {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-top: -210px;
+  margin-left: 20px;
+  font-size: 40px;
+  font-style: italic;
+}
+.image-carreiras {
+  width: 430px;
+  text-align: left;
+  margin-left: 20px;
+  float: left;
+}
+
+.div-carreiras {
+  border-radius: 10px;
+  width: 90%;
+  color: rgb(250, 250, 250);
+  margin-top: 30px;
+  border-radius: 20px;
+  text-align: center;
+  font-style: italic;
+  position: relative;
+}
+
+.image-espaco {
+  width: 450px;
+  text-align: left;
+  margin-left: 20px;
+  float: left;
+}
+
+.div-espaco {
+  width: 90%;
+  margin-top: 20px;
+  color: rgb(248, 248, 248);
+  text-align: center;
+  size: relative;
+}
+
+.image-youtube {
+  width: 120px;
+  text-align: left;
+  margin-left: 20px;
+  float: left;
+}
+
+.div-youtube {
+  width: 90%;
+  margin-top: 20px;
+  color: rgb(250, 250, 250);
+  text-align: center;
+}
+
+.div-destaque {
+  text-align: center;
+  color: aqua;
+  margin-top: 30px;
+}
+
+.vendas-destaque {
+  width: 100%;
+  margin-top: 50px;
+  color: aqua;
+  text-align: center;
+  font-size: 30px;
+}
+
+.tabela-destaque {
+}
+
+.footer-home {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.label-telefone {
+  margin-left: 20px;
+}
+.telefone-input {
+  margin-right: 40px;
+}
+.input-email {
+  margin-left: 5px;
+}
+
+ul.nav {
+  margin: 0;
+  padding: 0;
+}
+
+ul.nav li {
+  margin-top: 10px;
+  list-style: none;
+  display: inline;
+  float: right;
+}
+
+ul.nav li a {
+  float: right;
+  border: 1px solid #f00;
+  width: 6em;
+  font: 0.68em Verdana, Arial, Helvetica, sans-serif;
+  background: #f1f1f1;
+  color: #333;
+  text-align: center;
+  padding: 0 0.2em 0.2em 0;
+  text-decoration: none;
+}
+ul.nav a:hover {
+  background: #999;
+  color: #fff;
+  border-color: #00f;
+}
+body {
+  background: #ddd;
+  margin: 50px;
+}
+
+ul.nav li a {
+  margin-top: 70px;
+  float: left;
+  border-top: 0.1em solid #fff;
+  border-right: 0.1em solid #909090;
+  border-bottom: 0.1em solid #909090;
+  border-left: 0.1em solid #fff;
+  width: 5em;
+  font: 0.68em Verdana, Arial, Helvetica, sans-serif;
+  background: #f1f1f1;
+  color: #333;
+  text-align: center;
+  padding: 0 0.2em 0.2em 0;
+  text-decoration: none;
+}
+ul.nav a:hover {
+  background: #999;
+  color: #fff;
+  border-color: #000 #fafafa #fafafa #000;
+}
+
+.site-while {
+  text-align: center;
+}
+
+.insta-logo {
+  width: 50px;
+  height: auto;
+  margin-top: 60px;
+  border-radius: 50px;
+}
+.hr-final {
+  margin-top: 50px;
+}
+
+td,
+th {
+  padding: 0.7em;
+  margin: 0;
+  /*border: 1px solid #ccc;*/
+  text-align: center;
+}
+
+th {
+  /*background-color: #EEE;*/
+}
+td {
+  font-weight: bold;
+  /*background-color: #EEE;*/
+}
+
+table {
+  width: 100%;
+  margin-bottom: 0.5em;
+  table-layout: fixed;
+  text-align: center;
+}
+
+.yotube-logo {
+  width: 50px;
+  border-radius: 30px;
+  margin-left: 10px;
+}
+
+.text-mensagem {
+  margin-right: 47px;
+  margin-top: 20px;
+  text-align: top;
+}
+
+.contato-h1 {
+  width: 100%;
+  margin-top: 40px;
+  color: aqua;
+}
+
+.hr-inicio {
+  margin-top: 165px;
+}
